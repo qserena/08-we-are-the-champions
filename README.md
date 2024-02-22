@@ -1,4 +1,4 @@
-# VanLife - A way to rent your Van
+# We Are The Champions - A endorsement app
 
 ## Description
 Web application where you can filter out desired van type and see descriptions and prices.
@@ -15,7 +15,7 @@ This app is built with React Router to handle client-side routing.
 - JavaScript
 
 ## Live link
-VanLife is deployed here:
+We Are The Champions is deployed here:
 [https://toms-champions.netlify.app](https://toms-champions.netlify.app/)
 
 Please feel free to click around and explore!
