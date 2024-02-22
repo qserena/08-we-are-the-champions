@@ -1,10 +1,10 @@
-# We Are The Champions - A endorsement app
+# We Are The Champions - An endorsement app
 
 ## Description
-Web application where you can write endorsements to your working colleagues.
+Web application where you can write endorsements to your working colleagues, for anyone to see!
 
 <br/>
-<img src="./champions.png" alt="Screenshot of We Are The Champions app." width="400px"/>
+<img src="./champions.png" alt="Screenshot of We Are The Champions app." width="240px"/>
 
 ## Technologies
 - HTML
