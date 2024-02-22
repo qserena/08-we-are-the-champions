@@ -1,13 +1,10 @@
 # We Are The Champions - A endorsement app
 
 ## Description
-Web application where you can filter out desired van type and see descriptions and prices.
-If you login you can see views designed for your own Vans.
-
-This app is built with React Router to handle client-side routing.
+Web application where you can write endorsements to your working colleagues.
 
 <br/>
-<img src="./vanlife.png" alt="Screenshot of VanLife app." width="600px"/>
+<img src="./champions.png" alt="Screenshot of We Are The Champions app." width="400px"/>
 
 ## Technologies
 - HTML
